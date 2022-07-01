@@ -1,0 +1,37 @@
+.YourProgress{
+    border-radius: 25px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    box-shadow: 2px 2px 1px #888888;
+    padding: 2rem 2rem;
+    width: 130%;
+}
+
+.YourProgress>div:nth-of-type(1){
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.YourProgress>div:nth-of-type(1)>div:nth-of-type(1){
+    font-size: 19px;
+    color: #06283D;
+    font-weight: bold;
+}
+
+.YourProgress>div:nth-of-type(1)>div:nth-of-type(2){
+    font-size: 16px;
+    color: #5a8fc4;
+    font-weight: bold;
+}
+
+.YourProgress>div:nth-of-type(1)>div:nth-of-type(3){
+    font-size: 13px;
+    color: #73777B;
+}
+.YourProgress>div:nth-of-type(1)>div:nth-of-type(4){
+    font-size: 13px;
+    color: #73777B;
+}

@@ -1,0 +1,13 @@
+.Endbar{
+    width: 98%;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 25px;
+    gap: 2rem;
+}
+
+.nana{
+    width: 55%;
+    padding: 10rem;
+    border: 3px solid blue;
+}

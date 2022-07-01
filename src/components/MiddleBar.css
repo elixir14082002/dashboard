@@ -1,0 +1,14 @@
+.MiddleBar{
+    width: 98%;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 2px 2px 1px #888888;
+    background-color: #ffffffb0;
+    border-radius: 25px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.laal{
+    width: 55%;
+}
